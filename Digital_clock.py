@@ -9,7 +9,7 @@ w.resizable(1,1)
 label = Label(w,
     font=("Arial", 74, "bold"),
     bg="red",
-          fg="black",
+          fg="blue",
           bd=25)
 
 label.grid(row=0, column=1)
